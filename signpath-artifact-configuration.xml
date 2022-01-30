@@ -1,0 +1,7 @@
+<artifact-configuration xmlns="http://signpath.io/artifact-configuration/v1">
+  <zip-file>
+    <msix-file path="SmartRecoder-x64.msix">
+      <authenticode-sign />
+    </msix-file>
+  </zip-file>
+</artifact-configuration>

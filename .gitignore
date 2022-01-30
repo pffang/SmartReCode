@@ -1,0 +1,5 @@
+/build/
+/build-*/
+/.winapp/
+*.pfx
+*.p12
