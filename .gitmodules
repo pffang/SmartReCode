@@ -1,0 +1,6 @@
+[submodule "uchardet"]
+	path = uchardet
+	url = https://gitlab.freedesktop.org/uchardet/uchardet
+[submodule "wtl-git"]
+	path = wtl-git
+	url = https://git.code.sf.net/p/wtl/git
