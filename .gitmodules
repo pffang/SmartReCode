@@ -1,6 +1,6 @@
-[submodule "uchardet"]
-	path = uchardet
-	url = https://gitlab.freedesktop.org/uchardet/uchardet
 [submodule "wtl-git"]
 	path = wtl-git
 	url = https://git.code.sf.net/p/wtl/git
+[submodule "WTL"]
+	path = WTL
+	url = https://github.com/Win32-WTL/WTL.git
