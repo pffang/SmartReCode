@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\uchardet\src\JpCntx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\CharDistribution.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangArabicModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangBulgarianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangCroatianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangCzechModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangDanishModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangEsperantoModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangEstonianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangFinnishModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangFrenchModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangGermanModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangGreekModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangHebrewModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangHungarianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangIrishModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangItalianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangLatvianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangLithuanianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangMalteseModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangPolishModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangPortugueseModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangRomanianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangRussianModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangSlovakModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangSloveneModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangSpanishModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangSwedishModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangThaiModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangTurkishModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\LangModels\LangVietnameseModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsCharSetProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsEscCharsetProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsEscSM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsEUCJPProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsEUCKRProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsEUCTWProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsGB2312Prober.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsHebrewProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsLatin1Prober.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsMBCSGroupProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsMBCSSM.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsSBCharSetProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsSBCSGroupProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsSJISProber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsUniversalDetector.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsUTF8Prober.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\uchardet.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\uchardet\src\nsBig5Prober.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\uchardet\src\nsCharSetProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsCodingStateMachine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nscore.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsEscCharsetProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsEUCJPProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsEUCKRProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsEUCTWProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsGB2312Prober.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsHebrewProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsLatin1Prober.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsMBCSGroupProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsPkgInt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsSBCharSetProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsSBCSGroupProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsSJISProber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsUniversalDetector.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsUTF8Prober.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\prmem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\uchardet.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\nsBig5Prober.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\CharDistribution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\uchardet\src\JpCntx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="win_posix_def.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\uchardet\src\Big5Freq.tab">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\uchardet\src\EUCKRFreq.tab">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\uchardet\src\EUCTWFreq.tab">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\uchardet\src\GB2312Freq.tab">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="..\uchardet\src\JISFreq.tab">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+</Project>
